@@ -1,0 +1,4 @@
+ deployment:
+  tasks:
+    - export DEPLOYPATH=/home/pn2kkd48ntpi/public_html/starter
+    - /bin/cp -R /home/pn2kkd48ntpi/repositories/starter $DEPLOYPATH
